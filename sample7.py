@@ -1,3 +1,4 @@
 
-for i in range(2):
+N=int(input())
+for i in range(N):
   print("Hello")
