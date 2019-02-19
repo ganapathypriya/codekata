@@ -1,3 +1,3 @@
 r, t =map(int, raw_input(). split())
-power= r**t
-print power
+v= r**t
+print(v)
